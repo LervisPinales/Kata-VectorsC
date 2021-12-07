@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BND4s1l12UTk0fp8c8NluF2f/oL5iHBX1g57DjFJP011dWPVG9w+2YUbvBazS3V/7wjc2RmPDrMbcX2JxzZqiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lervi\\source\\repos\\KataMenu\\KataMenu\\KataMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lervi\\.nuget\\packages\\lervispg\\1.0.0\\lervispg.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

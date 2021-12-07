@@ -1,0 +1,16 @@
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.exe
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.deps.json
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.runtimeconfig.json
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.runtimeconfig.dev.json
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.dll
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataMenu.pdb
+C:\Users\lervi\source\repos\KataMenu\KataMenu\bin\Debug\netcoreapp3.1\KataVec.dll
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.csproj.AssemblyReference.cache
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.csproj.CopyComplete
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.dll
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.pdb
+C:\Users\lervi\source\repos\KataMenu\KataMenu\obj\Debug\netcoreapp3.1\KataMenu.genruntimeconfig.cache
